@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "E:/signup"
+		},
+		{
+			"path": "../SignupForm/html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "signup"
+	}
+}
